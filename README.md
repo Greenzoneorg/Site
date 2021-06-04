@@ -1,2 +1,2 @@
-# home
-# home
+# Landing
+The landing page
