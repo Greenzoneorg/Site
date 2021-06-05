@@ -1,8 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
-import Hero from './_hero'
-import Grids from './_grids'
+import arav from './_About'
 
 
 export default function Home() {
@@ -16,11 +15,7 @@ export default function Home() {
 
       <main className={styles.main}>
   
-        <Hero/>
-        
-        <br />
 
-        <Grids />
       </main>
 
       <footer className={styles.footer}>
