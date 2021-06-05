@@ -26,7 +26,7 @@ export default function Home() {
 
         <br />
 
-        <Green />
+      
       </main>
 
       <footer className={styles.footer}>
