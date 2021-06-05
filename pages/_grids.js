@@ -24,9 +24,9 @@ export default function Grid() {
                   />
                 </svg>
               </div>
-              <h1 class="mx-auto mb-8 text-2xl font-semibold leading-none tracking-tighter text-white lg:text-3xl title-font">
+              <h1 class="mx-auto mb-8 text-2xl font-semibold leading-none tracking-tighter text-black lg:text-3xl title-font">
                 {" "}
-                Let's be honest, we don't recyale
+                Let's be honest, we don't recycle
               </h1>
               <p class="mx-auto text-base font-medium leading-relaxed text-gray-500 ">
                 Recycling is annnyoing. We hate it, you hate it. Everyone tells
@@ -53,7 +53,7 @@ export default function Grid() {
                   />
                 </svg>
               </div>
-              <h1 class="mx-auto mb-8 text-2xl font-semibold leading-none tracking-tighter text-white lg:text-3xl title-font">
+              <h1 class="mx-auto mb-8 text-2xl font-semibold leading-none tracking-tighter text-black lg:text-3xl title-font">
                 {" "}
                 It's confusing{" "}
               </h1>
