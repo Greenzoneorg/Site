@@ -38,7 +38,7 @@ though, actually figuring it all out is annnyoing.</p>
           </svg>
         </div>
         <h1 class="mx-auto mb-8 text-2xl font-semibold leading-none tracking-tighter text-black lg:text-3xl title-font"> It's confusing </h1>
-        <p class="mx-auto text-base font-medium leading-relaxed text-gray-700 ">Does this <a href="https://TimHortons.com" className="text-blue-700"> Tim hortons Coffee</a>, recyable?  or is not? Some items may seem like they are, yet they're not. Let's actually fix that</p>
+        <p class="mx-auto text-base font-medium leading-relaxed text-gray-700 ">Is this <a href="https://TimHortons.com" className="text-blue-700"> Tim hortons Coffee</a>, recyable?  or is not? Some items may seem like they are, yet they're not. Let's actually fix that</p>
       </div>
     </div>
   </div>
