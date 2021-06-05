@@ -4,6 +4,9 @@
 # GreenZone - [site](https://greenzone.vercel.app/)
 
 This is the homepage/website for Greenzone. This is the frontend. For the [api](https://github.com/greenzoneorg/api), you can see it here.
+
+<br>
+
 <img src="https://pbs.twimg.com/media/E3FkBeSXoAgVuTN?format=jpg&name=large">
 
 # Contribution
