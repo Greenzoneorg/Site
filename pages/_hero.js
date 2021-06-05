@@ -9,8 +9,7 @@ export default function Hero() {
                 <h1 className="mb-6 text-2xl font-semibold tracking-tighter text-white sm:text-5xl title-font"> Greenzone</h1>
                 <p className="mx-auto text-base font-medium leading-relaxed text-gray-500 "> The Easiest Way to find if items are recyable and help the eviorment </p>
                 
-                <br/>
-                
+                <br/>                
 
   
               </div>
