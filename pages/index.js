@@ -3,6 +3,8 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Hero from './_hero'
 import Grids from './_grids'
+import Green from './_abouts'
+
 
 
 export default function Home() {
@@ -21,6 +23,10 @@ export default function Home() {
         <br />
 
         <Grids />
+
+        <br />
+
+        <Green />
       </main>
 
       <footer className={styles.footer}>
