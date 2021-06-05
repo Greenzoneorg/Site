@@ -1,6 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
+
+
+
+# GreenZone - [site](https://greenzone.vercel.app/)
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
@@ -9,12 +13,6 @@ npm run dev
 # or
 yarn dev
 ```
-
-
-# GreenZone - [site](https://greenzone.vercel.app/)
-
-
-
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
