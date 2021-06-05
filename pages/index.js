@@ -3,7 +3,7 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Hero from './_hero'
 import Grids from './_grids'
-import Green from './_abouts'
+
 
 
 
