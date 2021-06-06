@@ -40,7 +40,7 @@ class MyDocument extends Document {
             />
           </noscript>
         </Head>
-        <body>
+        <body class="media">
           <Main />
           <NextScript />
         </body>
