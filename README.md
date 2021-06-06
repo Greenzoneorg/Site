@@ -11,13 +11,9 @@ This is the homepage/website for Greenzone. This is the frontend. For the [api](
 <img src="https://pbs.twimg.com/media/E3FkBeSXoAgVuTN?format=jpg&name=large">
 
 # Install
-You really want to install on your system, alright fine.
-
-It's simple actually, for now. Npm, can be replaced with yarn.
-
 ```git clone https://github.com/Greenzoneorg/Site/.git```
-```mpm install```
-```npm run dev```
+```yarn install```
+```yarn run dev```
 
 
 # Contribution
