@@ -40,7 +40,7 @@ class MyDocument extends Document {
             />
           </noscript>
         </Head>
-        <body className="bg-white text-black dark:bg-black dark:text-white">
+        <body>
           <Main />
           <NextScript />
         </body>
