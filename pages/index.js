@@ -3,9 +3,11 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Hero from './_hero'
 import Grids from './_grids'
+import Quote from './_quote'
+import GrAravs from './_grids'
 
-
-
+// btw please talk in comments!
+//
 
 export default function Home() {
   return (
@@ -26,9 +28,13 @@ export default function Home() {
 
         <br />
 
-      
-      </main>
+        <Quote />
 
+<br />
+
+      </main>
+<div>
+</div>
       <footer className={styles.footer}>
         <a
           href="https://www.producthunt.com/makers-festival/green-earth"
@@ -36,8 +42,9 @@ export default function Home() {
           rel="noopener noreferrer"
         >
         
-          <span className={styles.logo}>
-     A Product for Product Hunt Maker Festival 2021
+    
+          <span className="text-green-500">
+    {''}  Created by kids and teenagers, for <span className="text-white">Maker festival </span>
           </span>
         </a>
       </footer>

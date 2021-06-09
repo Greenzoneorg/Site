@@ -20,11 +20,7 @@ export default function Home() {
      
       <h1 className="mb-6 text-2xl font-semibold tracking-tighter text-black sm:text-5xl title-font"> Products</h1>
         <br />
-<<<<<<< HEAD
-        <p className="mx-auto text-base  leading-relaxed text-gray-700 ">  Send <a className="text-blue-700" href="https://twitter.com/mudrankgupta"> Mudrank a Message</a> to remind Arav to make him finish this or get help</p>
-=======
         <p className="mx-auto text-base  leading-relaxed text-gray-700 ">  Send <a className="text-blue-700" href="https://github.com/heyarav"> Mudrank a Message</a> to remind Arav to make him finish this or get help</p>
->>>>>>> 3d155e6c7bdeef1ca79264ac3e2f482d2ace471b
 
         <br />
 

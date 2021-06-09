@@ -12,8 +12,8 @@ This is the homepage/website for Greenzone. This is the frontend. For the [api](
 
 # Install
 ```git clone https://github.com/Greenzoneorg/Site/.git```
-```yarn install```
-```yarn run dev```
+```npm install```
+```npm run dev```
 
 
 # Contribution

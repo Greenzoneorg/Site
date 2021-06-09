@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Image from "next/image";
 
-export default function Grid() {
+export default function GrAravs() {
   return (
     <section class="text-gray-700 ">
       <div class="container items-center px-5 py-8 mx-auto">
@@ -28,7 +28,7 @@ export default function Grid() {
                 {" "}
                 Let's be honest, we don't recycle
               </h1>
-              <p class="mx-auto text-base font-medium leading-relaxed text-gray-500 ">
+              <p class="mx-auto text-base font-medium leading-relaxed text-gray-400 ">
                 Recycling is annnyoing. We hate it, you hate it. Everyone tells
                 you, you need to recycle. though, actually figuring it all out
                 is annnyoing.
@@ -37,7 +37,7 @@ export default function Grid() {
           </div>
           <div class="w-full mx-auto lg:w-1/3">
             <div class="p-6">
-              <div class="inline-flex items-center justify-center flex-shrink-0 w-12 h-12 mx-auto mb-5 text-white bg-gray-100 rounded-full">
+              <div class="inline-flex items-center justify-center flex-shrink-0 w-12 h-12 mx-auto mb-5 text-black bg-gray-100 rounded-full">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   class="h-6 w-6"
@@ -57,9 +57,9 @@ export default function Grid() {
                 {" "}
                 It's confusing{" "}
               </h1>
-              <p class="mx-auto text-base font-medium leading-relaxed text-gray-500 ">
+              <p class="mx-auto text-base font-medium leading-relaxed text-gray-400">
                 Is this{" "}
-                <a href="https://TimHortons.com" className="text-blue-500">
+                <a href="https://TimHortons.com" className="text-blue-400">
                   {" "}
                   Tim hortons Coffee
                 </a>
