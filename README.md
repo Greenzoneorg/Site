@@ -1,20 +1,27 @@
 
+# GreenZone
+
+This project's Idea is to allow people to basically search to see if the item is recyclable. A simple, minimal, and quick approach to locate the best way to recycle and reuse and the most up-to-date information.
 
 
-# GreenZone - [site](https://greenzone.vercel.app/)
-
-This is the homepage/website for Greenzone. This is the frontend. For the [api](https://github.com/greenzoneorg/api), you can see it here.
+## Installation 
 
 
-<br>
 
-<img src="https://pbs.twimg.com/media/E3FkBeSXoAgVuTN?format=jpg&name=large">
+```bash 
+  git clone repo-link.git
+  npm install
+```
+    
+## Tech Stack
 
-# Install
-```git clone https://github.com/Greenzoneorg/Site/.git```
-```npm install```
-```npm run dev```
+ Next.js,TailwindCSS
 
 
-# Contribution
-We're not currently need help. Though, if you find something or wanna help send [a message to arav](https://twitter.com/heyarav), or [a message to Mudrank](https://twitter.com/mudrankgupta).
+  
+## Contributing
+
+We're not currently not accepting Contributions. Though, if you find something wrong or wanna help ,
+send a DM to [Arav](https://twitter.com/heyarav), or [Mudrank](https://twitter.com/mudrankgupta)
+
+  

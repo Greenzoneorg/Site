@@ -41,7 +41,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <span className="text-green-500">
-            {""} Created by kids and teenagers, for{" "}
+            {""} Created by teenagers who worry about the Earth, for{" "}
             <span className="text-white">Maker festival </span>
           </span>
         </a>

@@ -17,18 +17,18 @@ export default function GrAravs() {
                   stroke="black"
                 >
                   <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth="2"
                     d="M16 12a4 4 0 10-8 0 4 4 0 008 0zm0 0v1.5a2.5 2.5 0 005 0V12a9 9 0 10-9 9m4.5-1.206a8.959 8.959 0 01-4.5 1.207"
                   />
                 </svg>
               </div>
-              <h1 class="mx-auto mb-8 text-2xl font-semibold leading-none tracking-tighter text-white lg:text-3xl title-font">
+              <h1 class="mx-auto poppins mb-8 text-2xl font-semibold leading-none tracking-tight text-white lg:text-3xl title-font">
                 {" "}
                 Let's be honest, we don't recycle
               </h1>
-              <p class="mx-auto text-base font-medium leading-relaxed text-gray-400 ">
+              <p class="mx-auto text-base DMSans font-medium leading-relaxed text-gray-400 ">
                 Recycling is annnyoing. We hate it, you hate it. Everyone tells
                 you, you need to recycle. though, actually figuring it all out
                 is annnyoing.
@@ -46,18 +46,18 @@ export default function GrAravs() {
                   stroke="black"
                 >
                   <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth="2"
                     d="M16 12a4 4 0 10-8 0 4 4 0 008 0zm0 0v1.5a2.5 2.5 0 005 0V12a9 9 0 10-9 9m4.5-1.206a8.959 8.959 0 01-4.5 1.207"
                   />
                 </svg>
               </div>
-              <h1 class="mx-auto mb-8 text-2xl font-semibold leading-none tracking-tighter text-white lg:text-3xl title-font">
+              <h1 class="mx-auto poppins mb-8 text-2xl font-semibold leading-none tracking-tight text-white lg:text-3xl title-font">
                 {" "}
                 It's confusing{" "}
               </h1>
-              <p class="mx-auto text-base font-medium leading-relaxed text-gray-400">
+              <p class="mx-auto text-base DMSans font-medium leading-relaxed text-gray-400">
                 Is this{" "}
                 <a href="https://TimHortons.com" className="text-blue-400">
                   {" "}

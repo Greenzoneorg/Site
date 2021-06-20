@@ -1,5 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans&display=swap");
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Poppins:wght@300&display=swap');
+.montserrat {
+  font-family: 'Montserrat', sans-serif;
+}
+.poppins {
+  font-family: 'Poppins', sans-serif;
+}
+.DMSans {
+  font-family: 'DM Sans', sans-serif;
+}
 html,
 body {
   height: 100%;
